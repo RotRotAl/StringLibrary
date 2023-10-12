@@ -125,7 +125,7 @@ BOOL IsSubstring(string a, string b)
 	return res;
 }
 
-BOOL Replace(string a, string b, string c)
+void Replace(string a, string b, string c)
 {
 	int counter;
 	int seccounter;
