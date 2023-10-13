@@ -1,4 +1,4 @@
-#include"stringLibary.h"
+#include"StringLibrary.h"
 
 int GetStringLength(string str)
 {
